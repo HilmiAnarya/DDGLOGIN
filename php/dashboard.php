@@ -15,7 +15,7 @@
     <nav>
         <div class="navbar">
             <div class="logo">
-                <img src="Rusdi.jpg" alt="profil">
+                <img src="Ichigo.jpg" alt="profil">
             </div>
             <div class="logout">
                     <p><a href="login.php"> Log Out </a>
@@ -23,7 +23,5 @@
             </div>
         </div>
     </nav>
-
-
 </body> 
 </html>
